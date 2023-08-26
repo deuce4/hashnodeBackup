@@ -1,16 +1,16 @@
 ---
-title: "bigwalls.net copy and paste"
+title: "bigwalls.net homepage (test)"
 datePublished: Fri Jun 02 2023 22:19:54 GMT+0000 (Coordinated Universal Time)
 cuid: clif4ordc00040amq3fth0jry
-slug: bigwallsnet-copy-and-paste
+slug: bigwallsnet-homepage-test
 
 ---
 
 ![](http://bigwalls.net/images/960banner-960-1.jpg align="left")
 
-Welcome to [Bigwalls.net](http://Bigwalls.net), a repository of all things bigwall climbing.  
+Welcome to [Bigwalls.net](http://Bigwalls.net), a repository of all things bigwall climbing.
 
-### To contact John Middendorf, email is best.
+### Climbing Research books:
 
 **Mechanical Advantage: Tools for the Wild Vertical Volume 1 and 2:**
 
@@ -20,15 +20,9 @@ Below are links to PDF's of the compiled research (large files-**tip: right clic
 
 [\*Mechanical Advantage: Tools for the Wild Vertical, Volume 1 (mostly European tools and techniques to the 1930s)](http://bigwalls.net/download/mechadvantagevolume1.pdf)
 
-[PRINT VERSION VOLUME 1 AVAILABLE FROM BLURB USA ($42)](https://www.blurb.com/b/11589257-mechanical-advantage-tools-for-the-wild-vertical)
-
 [\*Mechanical Advantage: Tools for the Wild Vertical, Volume 2 (mostly North American tools and techniques to the 1930s)](http://bigwalls.net/download/mechadvantagevolume2.pdf)
 
-[PRINT VERSION VOLUME 2 AVAILABLE FROM BLURB USA ($58)](https://www.blurb.com/b/11589269-mechanical-advantage-tools-for-the-wild-vertical)
-
 <table><tbody><tr><td colspan="1" rowspan="1"><p></p></td><td colspan="1" rowspan="1"><p></p></td></tr></tbody></table>
-
-***SEARCH*** [***bigwalls.net***](http://bigwalls.net) ***AND*** [***BigWallGear.com***](http://BigWallGear.com)***:***
 
 Popular links:
 
