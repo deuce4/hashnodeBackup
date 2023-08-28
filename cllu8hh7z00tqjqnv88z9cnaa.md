@@ -8,35 +8,9 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693188110527/f92df0f
 
 ---
 
-Share this post
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693188083706/33deb6ab-7fb1-4ad2-bb3e-d7c9591b4abd.jpeg align="left")
-
-#### Next for Volume 3 (aluminum carabiners, nylon ropes)
-
-www.bigwallgear.com
-
-Copy link
-
-Facebook
-
-Email
-
-Notes
-
-Other
-
 # Next for Volume 3 (aluminum carabiners, nylon ropes)
 
 ### Tools for the Wild Vertical, Volume 2 finale
-
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693188085500/aff7ead9-92b2-466c-afb5-08457fe2596b.jpeg align="left")](https://substack.com/profile/19213836-john-middendorf)
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693188086263/65cf2abb-e443-4c61-a538-367cc3deff3c.jpeg align="left")
-
-#### Next for Volume 3 (aluminum carabiners, nylon ropes)
-
-www.bigwallgear.com
 
 ### Buy the books here:
 
@@ -120,11 +94,11 @@ In Volume 3, we’ll examine more nuances of the evolution of climbing tools and
 
 We’ll also try to decipher various definitions of climbing itself as it evolved in different regions. For example, consider these two mentions of climbing styles in the same journal in the same year:
 
-**Balance Climbing**: *“Since layback piton-pounding proved too difficult, Soler drove in six pitons for direct aid, skillfully edging on top of the one he had just placed in order to drive the next one. This maneuver whereby each piton was used first as a handhold, then as a foothold, without a rope sling, was a beautiful example of* ***balance climbing****. The 23rd piton, placed in a horizontal side crack in the left-hand overhanging column, permitted a short traverse and rétablissement (footnote) to its sloping, splintered top-the first belay point on the climb. After the other climbers had "prusiked" up to this platform, three more pitons were used before the party reached the big ledge at the N. end, from which an easy scramble led to the summit. During the 9½-hour climb, 26 pitons (24 of them angle pitons) had been used. The first pitch of what is now officially known as the Soler Route was belayed through pitons from the bottom during a 240-ft. lead!”* (A.C. Lembeck, *A New Route on Devils Tower, Wyoming,* 1952 AAJ)
+**Balance Climbing**: *“Since layback piton-pounding proved too difficult, Soler drove in six pitons for direct aid, skillfully edging on top of the one he had just placed in order to drive the next one. This maneuver whereby each piton was used first as a handhold, then as a foothold, without a rope sling, was a beautiful example of* ***balance climbing***\*. The 23rd piton, placed in a horizontal side crack in the left-hand overhanging column, permitted a short traverse and rétablissement (footnote) to its sloping, splintered top-the first belay point on the climb. After the other climbers had "prusiked" up to this platform, three more pitons were used before the party reached the big ledge at the N. end, from which an easy scramble led to the summit. During the 9½-hour climb, 26 pitons (24 of them angle pitons) had been used. The first pitch of what is now officially known as the Soler Route was belayed through pitons from the bottom during a 240-ft. lead!”\* (A.C. Lembeck, *A New Route on Devils Tower, Wyoming,* 1952 AAJ)
 
 footnote: rétablissement is a French word for reestablishing, here a named maneuver.
 
-**Climbing Free:** “*So we started out. The extremely difficult part begins with a long piton traverse to the left, some 100 meters above the base. Emilio climbed most of that pitch free-hanging by pitons and little holds, not using the rope for pull at all. He put in very few karabiners, thus making it necessary for me to* ***climb free****, too. I found my way to a piton that he had used for a belay. As I removed the karabiner, I lost my grip on the piton, my only hold, and fell. For what seemed an endless time, I became a terrifying pendulum, swinging in space. Emilio held me with the help of some pitons. When I finally stopped moving, I found myself several feet away from the rock. It took much effort and time to swing back to the rock, anchor myself, and work my way back. This incident ended the attempt and the season.* (Hans Kraus, Summer in the Dolomites, 1952 AAJ).
+**Climbing Free:** “*So we started out. The extremely difficult part begins with a long piton traverse to the left, some 100 meters above the base. Emilio climbed most of that pitch free-hanging by pitons and little holds, not using the rope for pull at all. He put in very few karabiners, thus making it necessary for me to* ***climb free***\*, too. I found my way to a piton that he had used for a belay. As I removed the karabiner, I lost my grip on the piton, my only hold, and fell. For what seemed an endless time, I became a terrifying pendulum, swinging in space. Emilio held me with the help of some pitons. When I finally stopped moving, I found myself several feet away from the rock. It took much effort and time to swing back to the rock, anchor myself, and work my way back. This incident ended the attempt and the season.\* (Hans Kraus, Summer in the Dolomites, 1952 AAJ).
 
 #### Innovation origins by small shop producers
 
